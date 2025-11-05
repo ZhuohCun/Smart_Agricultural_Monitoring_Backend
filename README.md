@@ -23,7 +23,7 @@
 9.  各种token解析：usertoken是本系统在用户登陆时使用本系统的密钥签发给用户的token。accesstoken是从传感器的服务器上获得，访问各传感器使用的token。videotoken是从萤石平台上获得，访问视频直播和拍照使用的token
 10. 运行效果：![](image.png)
 
-- © All Rights Reserved
+-　「Our Group」 © All Rights Reserved
 
 
 
